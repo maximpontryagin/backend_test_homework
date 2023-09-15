@@ -21,3 +21,7 @@ def test_program():
 
 
 print("DELETE")
+
+print("DELETE")
+print("DELETE")
+print("DELETE")
